@@ -48,3 +48,13 @@ O 4º passo do PT05
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>O primeiro paragrafo de muitos</p> <!-- este e o meu primeiro paragrafo em html -->
+<p>o segundo de muitos do Joao Pereira</p>
+
+</body>
+</html>
