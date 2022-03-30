@@ -44,7 +44,7 @@ O 4º passo do PT05
 <h2>LINK PORTEFOLIO</h2>
 <p>Joao Pereira</p>
 
-<a href="https://sites.google.com/aluno.aebenfica.pt/portefolio-joao-pereira/inicio"></a> <!-- o meu primeiro link -->
+<a href="https://sites.google.com/aluno.aebenfica.pt/portefolio-joao-pereira/inicio"> Portefólio </a> <!-- o meu primeiro link -->
 
 </body>
 </html>
