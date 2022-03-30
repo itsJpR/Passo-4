@@ -22,3 +22,17 @@ O 4º passo do PT05
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Olá, sou o Joao e gosto de:</h1> <!-- Aqui está o meu primeiro head -->
+<h2>jogar computador</h2>
+<h3>jogar à bola</h3>
+<h4>comer</h4>
+<h5>dormir</h5>
+<h6>e estudar</h6>
+
+</body>
+</html>
