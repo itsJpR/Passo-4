@@ -1,6 +1,5 @@
 # Passo-4
 O 4º passo do PT05
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -12,7 +11,6 @@ O 4º passo do PT05
 </body>
 </html>
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -23,7 +21,6 @@ O 4º passo do PT05
 </body>
 </html>
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -37,7 +34,7 @@ O 4º passo do PT05
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -49,7 +46,6 @@ O 4º passo do PT05
 </body>
 </html>
 
-<!DOCTYPE html>
 <html>
 <body>
 
